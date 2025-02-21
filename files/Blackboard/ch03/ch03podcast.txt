@@ -1,0 +1,18 @@
+﻿ESS	~0:34 - Who is Nana?
+ESS	~2:19 - What is the thing that allows hosting multiple virtual computers on a single physical computer?
+ESS	~2:31 - What is one of the most popular Hypervisors?
+ESS	~2:33 - Who owns this software?
+ESS	~2:40 - Which operating systems does VirtualBox work on?
+ESS	~3:41 - Hardware resources between host and guest operating systems are what?
+ESS	~4:05 - Due to virtualization, the virtual machine thinks that it is a what?
+ESS	~4:56 - 6:08 - Briefly describe the two uses of virtual machines mentioned.
+ESS	~7:00 - Describe a Type II hypervisor
+ESS	~7:50 - Describe a Type I hypervisor
+ESS	~8:13 - What is another name for a Type I hypervisor
+ESS	~8:32 - What are two examples of a Type I hypervisor
+ESS	~9:25 - When you create a Virtual Machine on a cloud provider, what type of hypervisor are you using?
+ESS	~11:33 - Why are companies adopting Virtualization?
+ESS	~12:24 - Without virtualization an OS is what?
+ESS	~14:10 - What is a virtual machine snapshot?
+ESS	~14:40 - What are the three advantages listed in the video about using virtualization?
+ESS	~15:08 - What are the four jobs listed that will be working with virtual machines?
